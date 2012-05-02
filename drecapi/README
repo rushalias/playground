@@ -1,0 +1,31 @@
+DREC API prototyped in Ruby using Sinatra
+
+
+switch to user latest ruby
+[1540] $ rvm use 1.9.2 
+Using /usr/local/rvm/gems/ruby-1.9.2-p180
+[1540] $ 
+
+
+run the app 
+
+[1540] $ ruby ./src/drec.rb  
+== Sinatra/1.2.6 has taken the stage on 4567 for development with backup from Thin
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:4567, CTRL+C to stop
+
+
+
+
+Control+C
+
+
+^C>> Stopping ...
+
+== Sinatra has ended his set (crowd applauds)
+[1540] $ 
+
+
+
+
